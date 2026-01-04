@@ -31,9 +31,9 @@ This showcases reusable UI modules and frontend architecture for landing pages.
 
 ## 📫 Find Me Online
 
-🔥 Fiverr: https://www.fiverr.com/der_schnief  
-💼 GitHub: https://github.com/YvesGildemDev
-💹 My News-Website: https://www.schnief-news.de
+🔥 Fiverr: https://www.fiverr.com/der_schnief  <br>
+💼 GitHub: https://github.com/YvesGildemDev <br>
+💹 My News-Website: https://www.schnief-news.de <br>
 🏰 FeCo-Clan-Area: https://www.fe-comp.de
 
 ---
