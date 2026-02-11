@@ -12,7 +12,7 @@ I build structured applications with authentication systems, role-based access c
 • Role-Based Access Control (RBAC)  
 • Admin & team management systems  
 • Backend logic with Node.js  
-• PostgreSQL / Supabase database architecture  
+• PostgreSQL / Supabase & Firebase database architecture  
 • Secure system design principles  
 • Linux environments & security fundamentals  
 
@@ -24,10 +24,10 @@ Frontend
 HTML, CSS, JavaScript  
 
 Backend  
-Node.js  
+Node.js/Next.js  
 
 Database  
-PostgreSQL, Supabase  
+PostgreSQL, Supabase, Firebase  
 
 Environment  
 Linux (Ubuntu / Kali)  
@@ -61,8 +61,9 @@ This showcases reusable UI modules and frontend architecture for landing pages.
 
 ## 📫 Find Me Online
 
+🪪 GitHub: https://github.com/YvesGildemDev <br>
+💼 LinkedIn: https://www.linkedin.com/in/yves-gildemeister-5724533b0/
 🔥 Fiverr: https://www.fiverr.com/der_schnief  <br>
-💼 GitHub: https://github.com/YvesGildemDev <br>
 💹 My News-Website: https://www.schnief-news.de <br>
 🏰 FeCo-Clan-Area: https://www.fe-comp.de
 
