@@ -106,9 +106,6 @@ This showcases reusable UI modules and frontend architecture for landing pages.
 - Secure Coding Fundamentals  
 - Modular & Scalable Architecture="40" alt="javascript logo"  />
 </div>
-- Responsive Design  <br>
-- UI Modules & Frontend Patterns
-
 
 ---
 
