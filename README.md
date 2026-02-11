@@ -1,21 +1,51 @@
-# 👋 Hey, I'm Schnief
+# 👋 Hey, I'm Schnief...
 
-I'm a **frontend developer** with a focus on **AI / SaaS landing pages** and **interactive UI**.  
-I build clean, modular, and reusable frontend solutions with **HTML, CSS & JavaScript** — no backend required.
+Junior Software Developer with a focus on secure fullstack applications, system architecture and backend-driven platforms.
+
+I build structured applications with authentication systems, role-based access control, administrative dashboards and database integrations. Alongside development, I am expanding my knowledge in cybersecurity and system security fundamentals.
 
 ---
 
-## 🚀 What I Do
-I create:
-- Minimal & Premium SaaS landing templates
-- Interactive frontend modules
-- UI showcases and frontend patterns
+## Core Areas
 
-All my work is designed to be:
-✔ reusable  
-✔ scalable  
-✔ easy to integrate  
-✔ frontend-only (no backend)
+• Authentication & session logic  
+• Role-Based Access Control (RBAC)  
+• Admin & team management systems  
+• Backend logic with Node.js  
+• PostgreSQL / Supabase database architecture  
+• Secure system design principles  
+• Linux environments & security fundamentals  
+
+---
+
+## Technical Stack
+
+Frontend  
+HTML, CSS, JavaScript  
+
+Backend  
+Node.js  
+
+Database  
+PostgreSQL, Supabase  
+
+Environment  
+Linux (Ubuntu / Kali)  
+
+Version Control  
+Git & GitHub  
+
+---
+
+## Development Focus
+
+I am continuously building and refining:
+
+• Secure authentication workflows  
+• Modular backend structures  
+• Scalable system architectures  
+• Role-based permission systems  
+• Security-oriented development practices
 
 ---
 
