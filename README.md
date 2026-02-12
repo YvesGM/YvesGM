@@ -105,8 +105,7 @@ This showcases reusable UI modules and frontend architecture for landing pages.
 - PostgreSQL & SQL  
 - Supabase Integration  
 - Secure Coding Fundamentals  
-- Modular & Scalable Architecture="40" alt="javascript logo"  />
-</div>
+- Modular & Scalable Architecture
 
 ---
 
