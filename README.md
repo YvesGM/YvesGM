@@ -62,7 +62,7 @@ This showcases reusable UI modules and frontend architecture for landing pages.
 ## 📫 Find Me Online
 
 🪪 GitHub: https://github.com/YvesGildemDev <br>
-💼 LinkedIn: https://www.linkedin.com/in/yves-gildemeister-5724533b0/
+💼 LinkedIn: https://www.linkedin.com/in/yves-gildemeister-5724533b0/ <br>
 🔥 Fiverr: https://www.fiverr.com/der_schnief  <br>
 💹 My News-Website: https://www.schnief-news.de <br>
 🏰 FeCo-Clan-Area: https://www.fe-comp.de
