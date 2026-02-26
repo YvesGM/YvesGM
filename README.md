@@ -1,73 +1,71 @@
-# 👋 Hey, I'm Schnief...
+# 👋 Hi, I'm Yves
 
-Junior Software Developer with a focus on secure fullstack applications, system architecture and backend-driven platforms.
+Full-Stack Web Developer focused on building structured, secure and scalable web applications.
 
-I build structured applications with authentication systems, role-based access control, administrative dashboards and database integrations. Alongside development, I am expanding my knowledge in cybersecurity and system security fundamentals.
+I design and implement modular systems with authentication workflows, role-based access control, administrative dashboards and database-driven architectures. My work emphasizes clean separation of concerns, maintainable backend logic and security-aware development practices.
 
 ---
 
-## Core Areas
+## Core Focus
 
-• Authentication & session logic  
+• Authentication & session management  
 • Role-Based Access Control (RBAC)  
-• Admin & team management systems  
-• Backend logic with Node.js  
-• PostgreSQL / Supabase & Firebase database architecture  
-• Secure system design principles  
-• Linux environments & security fundamentals  
+• Backend-driven application architecture  
+• Database modeling & integration  
+• Modular and scalable system design  
+• Security-oriented development fundamentals    
 
 ---
+
 
 ## Technical Stack
 
-Frontend  
-HTML, CSS, Tailwind-CSS, JavaScript  
+**Frontend**  
+HTML, CSS, TailwindCSS, JavaScript  
 
-Backend  
+**Backend**  
 Node.js/Next.js  
 
-Database  
+**Database**  
 PostgreSQL, Supabase, Firebase  
 
-Environment
-Windows 10 
-Linux (Ubuntu / Kali)  
-
-Version Control  
-Git & GitHub  
+**Environment & Tools
+Linux (Ubuntu / Kali), Git, GitHub 
 
 ---
 
-## Development Focus
+## Engineering Approach
 
-I am continuously building and refining:
-
-• Secure authentication workflows  
-• Modular backend structures  
-• Scalable system architectures  
-• Role-based permission systems  
-• Security-oriented development practices
+I focus on:
+• Designing structured backend logic  
+• Building modular and maintainable codebases 
+• Implementing secure authentication and permission systems 
+• Developing production-oriented web platforms  
+• Continuously refining architectural decisions
 
 ---
 
 ## 📁 Featured Projects
 
-### 🔹 **modular-registry-ui-showcase**
-A modular frontend UI example featuring a registry and interactive data explorer.  
-This showcases reusable UI modules and frontend architecture for landing pages.
+### 🔹 Schnief-News – Authenticated Full-Stack Web Platform  
+Production-deployed web application with authentication, role-based access control (RLS), and structured database integration.
 
-➡️ https://github.com/YvesGildemDev/modular-registry-ui-showcase
+➡️ https://www.schnief-news.de  
+
+---
+
+### 🔹 Modular Registry – API-Based Frontend Architecture  
+Modular frontend system for dynamic API data integration and reusable UI structures.
+
+➡️ https://github.com/YvesGildemDev/modular-registry-ui-showcase  
 
 ---
 
-## 📫 Find Me Online
+## Connect
 
-💼 LinkedIn: https://www.linkedin.com/in/yves-gildemeister-5724533b0/ <br>
-🔥 Fiverr: https://www.fiverr.com/der_schnief  <br>
-💹 My News-Website: https://www.schnief-news.de <br>
-🏰 FeCo-Clan-Area: https://www.fe-comp.de
-
----
+LinkedIn: https://www.linkedin.com/in/yves-gildemeister-5724533b0/  
+Fiverr: https://www.fiverr.com/der_schnief  
+Website: https://www.schnief-news.de  
 
 ## 🛠 Skills
 
@@ -98,16 +96,6 @@ This showcases reusable UI modules and frontend architecture for landing pages.
 
 </div>
 
-- Fullstack Application Development  
-- Authentication Systems (Sessions / JWT concepts)  
-- Role-Based Access Control (RBAC)  
-- REST API Fundamentals  
-- PostgreSQL & SQL  
-- Supabase Integration  
-- Secure Coding Fundamentals  
-- Modular & Scalable Architecture
-
 ---
 
-Thanks for stopping by!
-
+Thanks for visiting.
