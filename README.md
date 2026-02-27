@@ -21,10 +21,10 @@ I design and implement modular systems with authentication workflows, role-based
 ## Technical Stack
 
 **Frontend**  
-HTML, CSS, TailwindCSS, JavaScript  
+React, Next.js, TypeScript, JavaScript, HTML5, CSS3  
 
 **Backend**  
-Node.js/Next.js  
+Node.js, REST APIs, JSON, Atuhentifizierungs- & Rollenmodelle  
 
 **Database**  
 PostgreSQL, Supabase, Firebase  
@@ -54,7 +54,7 @@ Production-deployed web application with authentication, role-based access contr
 
 ---
 
-### 🔹 Modular Registry – API-Based Frontend Architecture  
+### 🔹 Modular API-Driven Frontend Architecture  
 Modular frontend system for dynamic API data integration and reusable UI structures.
 
 ➡️ https://github.com/YvesGildemDev/modular-registry-ui-showcase  
