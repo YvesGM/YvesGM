@@ -54,6 +54,13 @@ Production-deployed web application with authentication, role-based access contr
 
 ---
 
+### 🔹 Modular PC Konfigurator Webapplication
+Prototype of a modular hardware configurator for pc components to demonstrate maintainable architecture with centralized compatibility logic and dynamic component validation.
+
+➡️ https://github.com/YvesGM/modular-pc-configurator-prototype
+
+---
+
 ### 🔹 Modular API-Driven Frontend Architecture  
 Modular frontend system for dynamic API data integration and reusable UI structures.
 
@@ -62,8 +69,7 @@ Modular frontend system for dynamic API data integration and reusable UI structu
 ---
 
 ## Connect
-
-LinkedIn: https://www.linkedin.com/in/yves-gildemeister-5724533b0/  
+ 
 Fiverr: https://www.fiverr.com/der_schnief  
 Website: https://www.schnief-news.de  
 
